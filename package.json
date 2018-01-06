@@ -18,6 +18,6 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git://github.com/liyongleihf2006/html-webpack-plugin.git"
+    "url": "git://github.com/liyongleihf2006/html-manifest-plugin.git"
   }
 }
