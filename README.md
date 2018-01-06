@@ -24,15 +24,13 @@ module.exports = {
   ]
 }
 ```  
-Emits ```
-html-manifest.json
-```  as file in the output directory
+Emits `html-manifest.json` as file in the output directory
 
 
 **Options**
 
-name | type | default | description  
-------- | ------- | -------  
-path | string | undefined | File path 
-filename | string | html-manifest.json | File name  
+|name|type|default|description  
+|:--:|:--:|:-----:|:----------| 
+|path|string|undefined|File path|
+|filename|string|html-manifest.json|File name|
 
