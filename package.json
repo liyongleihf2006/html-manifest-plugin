@@ -1,0 +1,23 @@
+{
+  "name": "html-manifest-plugin",
+  "version": "1.0.0",
+  "description": "When using html-webpack-plugin, generate a JSON file that corresponds to the key value pair of the template file and the target file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "html-webpack-plugin",
+    "key",
+    "value",
+    "manifest",
+    "html-manifest-plugin"
+  ],
+  "author": "liyongleihf2006",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/liyongleihf2006/html-webpack-plugin.git"
+  }
+}
