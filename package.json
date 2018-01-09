@@ -1,11 +1,38 @@
 {
-  "name": "html-manifest-plugin",
-  "version": "1.0.0",
-  "description": "When using html-webpack-plugin, generate a JSON file that corresponds to the key value pair of the template file and the target file",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "_from": "html-manifest-plugin",
+  "_id": "html-manifest-plugin@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-JiZWXEeAUYajgokYkXQw+IKQD0KjwIaJCENxpJVg7lY8A0hy/ZutKsidN7ExF4TkhkfwqdHJKmBrX8m0dhL6rQ==",
+  "_location": "/html-manifest-plugin",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "html-manifest-plugin",
+    "name": "html-manifest-plugin",
+    "escapedName": "html-manifest-plugin",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
   },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/html-manifest-plugin/-/html-manifest-plugin-1.0.0.tgz",
+  "_shasum": "03cc4b9d73dd1e3a67230c505c9edf640589cab2",
+  "_spec": "html-manifest-plugin",
+  "_where": "/Users/liyonglei/workspace2/webpack_test2",
+  "author": {
+    "name": "liyongleihf2006"
+  },
+  "bugs": {
+    "url": "https://github.com/liyongleihf2006/html-manifest-plugin/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "When using html-webpack-plugin, generate a JSON file that corresponds to the key value pair of the template file and the target file",
+  "homepage": "https://github.com/liyongleihf2006/html-manifest-plugin#readme",
   "keywords": [
     "webpack",
     "html-webpack-plugin",
@@ -14,10 +41,15 @@
     "manifest",
     "html-manifest-plugin"
   ],
-  "author": "liyongleihf2006",
   "license": "ISC",
+  "main": "index.js",
+  "name": "html-manifest-plugin",
   "repository": {
     "type": "git",
     "url": "git://github.com/liyongleihf2006/html-manifest-plugin.git"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.0.0"
 }
