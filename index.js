@@ -27,7 +27,7 @@ HtmlManifestPlugin.prototype.apply = function(compiler) {
                 targetTemplates.push(this.options.templates);
             }else if(this.options.templates instanceof Array){
                 targetTemplates = this.options.templates;
-            };debugger;
+            };
             targetTemplates.forEach((template)=>{
                 let filename = this.content[path.basename(template)];
                 let insertStr = `<script>var ${this.options.variable} = ${JSON.stringify(this.content)}</script>`;
